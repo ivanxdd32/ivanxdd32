@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohitdwagh/banners/main/night-mountain.svg" width="100%" alt="Banner" />
+  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1600&q=80" width="100%" alt="Night Sky Banner" />
 </div>
 
 ---
