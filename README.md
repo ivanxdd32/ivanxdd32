@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1600&q=80" width="100%" height="10%" alt="Night Sky Banner" />
+  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1600&q=80" width="100%" height="200px" alt="Night Sky Banner" />
 </div>
 
 ---
