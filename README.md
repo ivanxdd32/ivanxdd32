@@ -34,7 +34,7 @@
 💡 Languages:       JavaScript, HTML, CSS, SQL
 ⚙️ Frameworks:      React, Vite, Node.js, Express.js
 🎨 Styling:         Tailwind CSS (used occasionally), CSS Modules
-🛢️ Database:       MySQL
+🛢️ Database:        MySQL
 🔧 Tools:           Git, GitHub, VS Code, Railway, Render, Postman
 ```
 
