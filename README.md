@@ -67,7 +67,7 @@
 
 ### 🎯 Goals & Vision
 
-- ✨ Become an expert professional in web development and security.
+- ✨ Become an expert professional in development and security.
 - 🔎 Find vulnerabilities and help create more secure applications.
 - 🌈 Build beautiful and functional interfaces that amaze.
 - 👨‍💻 Contribute to innovative projects, both personal and professional.
