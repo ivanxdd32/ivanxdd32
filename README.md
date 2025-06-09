@@ -67,18 +67,18 @@
 
 ### 🎯 Goals & Vision
 
-✨ Convertirme en un profesional experto en desarrollo web y seguridad.  
-🔎 Encontrar vulnerabilidades y ayudar a crear aplicaciones más seguras.  
-🌈 Crear interfaces hermosas y funcionales que sorprendan.  
-👨‍💻 Contribuir a proyectos innovadores, tanto personales como profesionales.
+✨ Become an expert professional in web development and security.
+🔎 Find vulnerabilities and help create more secure applications.
+🌈 Build beautiful and functional interfaces that amaze.
+👨‍💻 Contribute to innovative projects, both personal and professional.
 
 ---
 
 ### 💡 Fun Facts
 
-- 🎮 Fan de los jueguitos retro, el cielo estrellado y las animaciones locas.
-- ❤️ Me apasiona tanto el diseño como el backend.
-- 🧠 Siempre en busca de mejorar, aprender, fallar y volver a intentar.
+- 🎮 Fan of retro games, starry skies, and crazy animations.
+- ❤️ I'm passionate about both design and backend.
+- 🧠 Always looking to improve, learn, fail, and try again.
 
 ---
 
@@ -93,16 +93,16 @@
 
 ### 🧠 Currently Learning
 
-- 🧮 Algoritmos & estructuras de datos  
-- 🧱 Mejores prácticas en backend  
-- 🔐 Seguridad ofensiva (Web Pentesting)
+- 🧮 Algorithms & data structures
+- 🧱 Backend best practices
+- 🔐 Offensive security (Web Pentesting)
 
 ---
 
 ### 🌌 Thanks for Visiting!
 
-> **“Gracias por visitar mi perfil, el viaje apenas comienza 🚀  
-Sigamos creando, aprendiendo y construyendo un futuro digital más increíble y seguro.”**
+> **“Thanks for visiting my profile, the journey is just beginning 🚀  
+Let’s keep creating, learning, and building a more awesome and secure digital future.”**
 
 ---
 
@@ -110,4 +110,4 @@ Sigamos creando, aprendiendo y construyendo un futuro digital más increíble y 
 
 ---
 
-🔗 _Este README fue creado con ❤️, creatividad y muchas líneas de código._
+🔗 _This README was made with ❤️, creativity, and lots of lines of code._
