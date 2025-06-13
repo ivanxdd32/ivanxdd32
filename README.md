@@ -47,7 +47,7 @@
 | 🌀 **Portafolio Web**      | Mi portafolio personal hecho con React y animaciones | [Ver sitio](https://portfolio-ivan-m.onrender.com/) |
 | 📋 **Tareku**              | App para gestionar tareas con prioridades y JWT | [Ver sitio](https://tareku.onrender.com/) |
 | 🧮 **Calculadora Científica** | Operaciones extensas, scroll, diseño moderno | [Ver sitio](https://scientifical.netlify.app/) |
-| 🌐 **World Clocks App**   | Visualiza la hora en distintas zonas horarias | Building |
+| 🌐 **Clocks - International Timezone**   | Visualiza la hora en distintas zonas horarias | [Ver sitio](https://clocks-international-timezones.netlify.app/) |
 | 🎮 **Imh4nny Hupdate UI** | Interfaz animada y colorida para streamer      | [Ver sitio](https://imh4nny-hubupdate.onrender.com) |
 
 ---
