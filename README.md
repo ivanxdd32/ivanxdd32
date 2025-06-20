@@ -45,7 +45,6 @@
 | Name                      | Description                                     | Link |
 |---------------------------|-------------------------------------------------|------|
 | 🌀 **Portafolio Web**      | Mi portafolio personal hecho con React y animaciones | [Ver sitio](https://portfolio-ivan-m.onrender.com/) |
-| 🌀 **Portafolio Web 2.0**  | Mi portafolio personal mejorado | Building |
 | 📋 **Tareku**              | App para gestionar tareas con prioridades y JWT | [Ver sitio](https://tareku.onrender.com/) |
 | 🧮 **Calculadora Científica** | Operaciones extensas, scroll, diseño moderno | [Ver sitio](https://scientifical.netlify.app/) |
 | 🌐 **Clocks - International Timezone**   | Visualiza la hora en distintas zonas horarias | [Ver sitio](https://clocks-international-timezones.netlify.app/) |
