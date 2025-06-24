@@ -5,12 +5,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1600&q=80" width="100%" height="500px" alt="Night Sky Banner" />
-</div>
-
----
-
 ### 🌟 About Me
 
 💻 I'm a passionate Full Stack Developer from **Cúcuta, Colombia**.  
@@ -23,7 +17,7 @@
 ### 🚧 Currently Working On
 
 - 🧠 Improving my logic & SQL skills  
-- 🌍 A World Clock App with dynamic UI  
+- 🌍 Refining my personal projects
 - 🔐 Web security learning & vulnerability testing
 
 ---
@@ -44,11 +38,11 @@
 
 | Name                      | Description                                     | Link |
 |---------------------------|-------------------------------------------------|------|
-| 🌀 **Portafolio Web**      | Mi portafolio personal hecho con React y animaciones | [Ver sitio](https://portfolio-ivan-m.onrender.com/) |
-| 📋 **Tareku**              | App para gestionar tareas con prioridades y JWT | [Ver sitio](https://tareku.onrender.com/) |
-| 🧮 **Calculadora Científica** | Operaciones extensas, scroll, diseño moderno | [Ver sitio](https://scientifical.netlify.app/) |
-| 🌐 **Clocks - International Timezone**   | Visualiza la hora en distintas zonas horarias | [Ver sitio](https://clocks-international-timezones.netlify.app/) |
-| 🎮 **Imh4nny Hupdate UI** | Interfaz animada y colorida para streamer      | [Ver sitio](https://imh4nny-hubupdate.onrender.com) |
+| 🌀 **Portafolio Web**      | My personal portfolio built with React and animations | [View site](https://portfolio-ivan-m.onrender.com/) |
+| 📋 **Tareku**              | Task management app with priorities and JWT authentication | [View site](https://tareku.onrender.com/) |
+| 🧮 **Calculadora Científica** | Extensive operations, scroll support, and modern design | [View site](https://scientifical.netlify.app/) |
+| 🌐 **Clocks - International Timezone**   | View the time in different time zones  | [View site](https://clocks-international-timezones.netlify.app/) |
+| 🎮 **Imh4nny Hupdate UI** | Animated and colorful interface for a streamer  | [View site](https://imh4nny-hubupdate.onrender.com) |
 
 ---
 
