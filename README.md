@@ -10,7 +10,7 @@
 💻 I'm a passionate Full Stack Developer from **Cúcuta, Colombia**.  
 🔐 I'm also deeply interested in **Web Security** and **ethical hacking**.  
 🌌 I love **beautiful UI design**, creative interactions, and making the web a safer and more exciting place.  
-🚀 Currently focused on improving my skills in **Frontend**, **logic**, and **cybersecurity**.
+🚀 Currently focused on improving my skills in **Backend**, **logic**, and **cybersecurity**.
 
 ---
 
